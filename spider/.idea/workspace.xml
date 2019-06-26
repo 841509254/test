@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37654b72-3159-43bc-9556-157811fda10a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day1_01_urlopen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_02_Request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_03_urlencode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1_04_tieba.py" afterDir="false" />
-    </list>
+    <list default="true" id="37654b72-3159-43bc-9556-157811fda10a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/day1_04_tieba.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="20" />
+              <caret line="2" column="20" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
               <folding>
                 <element signature="e#16#37#0" expanded="true" />
               </folding>
@@ -86,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-5" />
     <option name="y" value="20" />
     <option name="width" value="1041" />
@@ -100,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,18 +238,19 @@
       <updated>1561368237002</updated>
       <workItem from="1561368238320" duration="6602000" />
       <workItem from="1561435973213" duration="1198000" />
+      <workItem from="1561536642983" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7800000" />
+    <option name="totallyTimeSpent" value="8398000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="20" width="1041" height="1000" extended-state="1" />
+    <frame x="-5" y="20" width="1041" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2008155" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20489296" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -312,7 +308,7 @@
     <entry file="file://$PROJECT_DIR$/day1_04_tieba.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="20" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
           <folding>
             <element signature="e#16#37#0" expanded="true" />
           </folding>
